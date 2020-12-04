@@ -24,7 +24,7 @@
     },
     "require-dev": {
         "infection/infection": "^0.18.0",
-        "phpunit/phpunit": "^9.4",
+        "phpunit/phpunit": "^9.5",
         "vimeo/psalm": "^3.18 || ^4.0"
     },
     "provide": {
